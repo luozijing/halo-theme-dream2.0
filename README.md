@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nineya/halo-theme-dream2.0/screenshot.png" alt="halo-theme-dream2.0" width="180">
+<img src="https://cdn.jsdelivr.net/gh/nineya/halo-theme-dream2.0/screenshotLogo.png" alt="halo2.0-theme-guozi" width="80">
 </p>
 <h1 align="center">halo-theme-guozi</h1>
 
@@ -16,7 +16,7 @@
 
 ## 一、预览
 
-![玖涯博客](https://cdn.jsdelivr.net/gh/luozijing/halo2.0-theme-guozi@master/preview.png)
+![玖涯博客](https://cdn.jsdelivr.net/gh/luozijing/halo2.0-theme-guozi@master/previewBook.png)
 
 预览：[主题预览](https://github.com/nineya/halo-theme-dream/discussions/72)
 > 如果你有计划长期使用 `Dream` 主题，也来[这里](https://github.com/nineya/halo-theme-dream/discussions/72)留下你的博客链接吧。

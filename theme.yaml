@@ -2,26 +2,26 @@ apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
   # 主题id，唯一
-  name: theme-dream
+  name: theme-guozi
 spec:
   # 主题名称
   displayName: Dream
   author:
     # 作者名称
-    name: nineya
+    name: roro
     # 作者网址
-    website: https://blog.nineya.com
+    website: https://81.69.254.72/
   # 主题描述
-  description: '梦之城，童话梦境'
+  description: '山寨主题'
   # 主题logo地址
   logo: /themes/theme-dream/assets/img/logo.png
   # 主题地址
-  website: https://github.com/nineya/halo-theme-dream2.0
+  website: https://github.com/luozijing/halo2.0-theme-guozi
   # 主题github开源地址
-  repo: https://github.com/nineya/halo-theme-dream2.0.git
+  repo: https://github.com/luozijing/halo2.0-theme-guozi
   settingName: theme-dream-setting
   configMapName: theme-dream-configMap
   # 版本号
-  version: 1.0.4
+  version: 1.0.6
   # 最低支持的 Halo 版本
   require: ">=2.0.0"

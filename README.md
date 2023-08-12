@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/nineya/halo-theme-dream2.0/screenshot.png" alt="halo-theme-dream2.0" width="180">
 </p>
-<h1 align="center">halo-theme-dream2.0</h1>
+<h1 align="center">halo-theme-guozi</h1>
 
 <p align="center">
 <a href="https://github.com/nineya/halo-theme-dream2.0/releases"><img alt="releases" src="https://img.shields.io/github/release/nineya/halo-theme-dream2.0.svg?style=flat-square"/></a>
@@ -16,7 +16,7 @@
 
 ## 一、预览
 
-![玖涯博客](https://cdn.jsdelivr.net/gh/nineya/halo-theme-dream2.0@master/preview.png)
+![玖涯博客](https://cdn.jsdelivr.net/gh/luozijing/halo2.0-theme-guozi@master/preview.png)
 
 预览：[主题预览](https://github.com/nineya/halo-theme-dream/discussions/72)
 > 如果你有计划长期使用 `Dream` 主题，也来[这里](https://github.com/nineya/halo-theme-dream/discussions/72)留下你的博客链接吧。
@@ -25,7 +25,6 @@
 
 ## 二、说明
 
-梦之城，童话梦境，动漫类型博客主题。
 
 关于主题使用上的一些问题可以参见 [主题使用手册-基础篇](https://blog.nineya.com/archives/94.html)
 
@@ -35,7 +34,6 @@
 
 欢迎关注微信公众号《玖涯菜菜子》，主题版本更新消息与要点说明将在公众号发布。
 
-![微信公众号](https://blog.nineya.com/upload/2023/05/未标题-2.png)
 
 
 ## 三、版本适配关系
@@ -74,11 +72,3 @@
     - `npm run build --devel` 开发模式进行主题打包，`js` 和 `css` 不会被做压缩和混淆处理，方便排查问题。
     - `npm run release --tag=$version` 发布模式执行主题打包操作，将自动更新主题中的版本号，并使用这个版本标签重新创建  `FreeCDN` 清单文件。
     
-    
-
-
-## 六、打赏项目
-
-感谢您对本项目的喜爱，您的打赏是对本项目最好的支持！
-
-![打赏项目](https://blog.nineya.com/upload/2022/08/funding.png)

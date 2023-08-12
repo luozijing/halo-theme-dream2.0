@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/nineya/halo-theme-dream2.0/screenshotLogo.png" alt="halo2.0-theme-guozi" width="80">
+<img src="https://cdn.jsdelivr.net/gh/luozijing/halo2.0-theme-guozi@master/screenshotLogo.png" alt="halo2.0-theme-guozi" width="80">
 </p>
 <h1 align="center">halo-theme-guozi</h1>
 
